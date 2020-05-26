@@ -1,0 +1,14 @@
+.navbar-inverse .navbar-nav>li>a
+{
+	color: #fff;
+}
+.navbar-inverse .navbar-nav>li>a:hover
+{
+	color: #00CC99;
+	background-color: #330000;
+}
+.navbar-inverse .navbar-nav>li>a:focus
+{
+	color: #00CC99;
+	background-color: #330000;
+}
